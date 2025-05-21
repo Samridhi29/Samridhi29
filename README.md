@@ -1,4 +1,3 @@
-![Header]
 <h1 align="center">Hi there, I'm Samridhi! 👋</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Samridhi29&label=Profile%20views&color=0e75b6&style=flat" alt="Samridhi29" /> </p>
@@ -14,15 +13,14 @@
 
 - ⚡ Fun fact **I am Funny :)**
 
-### Hi there, I'm Samridhi 👋
+<!--### Hi there, I'm Samridhi 👋
 
 
-- 🌱 I’m currently improving my skills in Data Structures and Algorithms(DSA).
+<!-- 🌱 I’m currently improving my skills in Data Structures and Algorithms(DSA).
 - 💬 Ask me about Frontend Development, MERN Full stack Development, DSA, GEN AI, Recommendation systems
 - 📫 How to reach me: jhasamridhi29@gmail.com
 - 😄 Pronouns: She/Her
 
-<!--
 **Samridhi29/Samridhi29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

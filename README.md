@@ -20,7 +20,16 @@
 - 💬 Ask me about Frontend Development, MERN Full stack Development, DSA, GEN AI, Recommendation systems
 - 📫 How to reach me: jhasamridhi29@gmail.com
 - 😄 Pronouns: She/Her
+<h4>Feel free to connect with me; I'm always up for coding conversations or sharing travel stories:) </h4>
 
+<p align="left">
+<a href="https://www.linkedin.com/in/kumari-samridhi-bb6851253 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a><a href="https://instagram.com/samridhi29.__?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
+<br>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samridhi29&show_icons=true&locale=en&layout=compact" alt="Samridhi29" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samridhi29&" alt="Samridhi29" /></p>
 **Samridhi29/Samridhi29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
